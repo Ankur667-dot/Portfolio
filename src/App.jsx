@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navbar from './section/navbar'
+import Navbar from './section/Navbar'
 import Hero from './section/Hero'
 import About from './section/About'
 import Projects from'./section/Projects'
