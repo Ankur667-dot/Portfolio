@@ -6,7 +6,7 @@ import ReactLogo from "../assets/react.png"
 import Card from '../components/Card';
 import { useRef } from 'react';
 import { Globe } from '../components/Globe';
-import CopyEmail from '../components/copyEmail';
+import CopyEmail from '../components/CopyEmail';
 import { IconCloud } from '../components/IconCloud';
 import Html from '../assets/logo/html.png'
 import Css from '../assets/logo/css3.png'
