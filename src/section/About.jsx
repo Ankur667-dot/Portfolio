@@ -73,7 +73,7 @@ export default function About() {
             <Card text="HTML" containerRef={grid2Container}  style={{rotate: "75deg", bottom:"10%", left:"55%" }}/>
             <Card text="Design Pattern" containerRef={grid2Container}  style={{rotate: "25deg", bottom:"12%", left:"25%" }}/>
             <Card image={CSharpLogo} containerRef={grid2Container} style={{rotate: "-45deg", top:"70%", left:"1%" }}/>
-            <Card image={CSharpLogo} containerRef={grid2Container}  style={{rotate: "-55deg", top:"50%", left:"52%" }}/>
+            <Card image={spring} containerRef={grid2Container}  style={{rotate: "-55deg", top:"50%", left:"52%" }}/>
             <Card image={JavaLogo} containerRef={grid2Container}  style={{rotate: "45deg", bottom:"7%", right:"5%" }}/>
             <Card image={ReactLogo} containerRef={grid2Container} style={{rotate: "-45deg", top:"70%", left:"65%" }}/>
           </div>

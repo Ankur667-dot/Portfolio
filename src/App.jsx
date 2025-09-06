@@ -4,6 +4,7 @@ import Hero from './section/Hero'
 import About from './section/About'
 import Projects from'./section/Projects'
 import Contact from './section/Contact'
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
  
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <SpeedInsights/>
       {/*
       <Testimonial />
       <Footer /> */}
